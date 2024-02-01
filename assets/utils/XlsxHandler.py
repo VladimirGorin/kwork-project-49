@@ -1,6 +1,5 @@
 import pandas as pd
-import csv
-import warnings
+import csv, warnings
 
 
 class XlsxHandler:
