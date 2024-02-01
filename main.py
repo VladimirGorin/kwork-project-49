@@ -1,3 +1,5 @@
+import assets.utils.install
+
 from assets.utils.ArchiveHandler import ArchiveHandler
 from assets.utils.XlsxHandler import XlsxHandler
 from assets.utils.SheetUpdater import SheetUpdater
